@@ -1,0 +1,1 @@
+This repository contains a Vision Transformer (ViT) model trained on the Alzheimer's Disease dataset sourced from Kaggle. The dataset consists of brain MRI images categorized into five classes based on Alzheimer's disease progression stages.
